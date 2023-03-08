@@ -40,11 +40,16 @@ console.log(parseInt(numeroFavorito) + edad)
 
 // -------
 
+// let num1 = prompt('Ingrese número 1')
+// let num2 = prompt('Ingrese número 2')
+
+// alert(`La suma de ${num1} más ${num2} da ${parseInt(num1) + parseInt(num2)}`)
+
+
 let num1 = prompt('Ingrese número 1')
 let num2 = prompt('Ingrese número 2')
 
-alert(`La suma de ${num1} más ${num2} da ${parseInt(num1) + parseInt(num2)}`)
-
+alert(`El ${num1} dividido por ${num2} da ${num1 / num2}`)
 
 // let num3 = prompt('Ingrese número 1')
 // let num4 = prompt('Ingrese número 2')
