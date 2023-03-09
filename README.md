@@ -20,3 +20,10 @@ Comisión 23307 - Profe Gabriel Muñoz
 - Mongo
 - Go
 
+## Qué vimos?
+
+- Clase 1: Presentación
+- Clase 2: Batilinterna
+- Clase 3: Javascript: Interacciones, variables, conceptos básicos
+- Clase 4: Javascript: Métodos y objetos
+
