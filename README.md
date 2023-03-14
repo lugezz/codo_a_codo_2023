@@ -25,5 +25,6 @@ Comisión 23307 - Profe Gabriel Muñoz
 - Clase 1: Presentación
 - Clase 2: Batilinterna
 - Clase 3: Javascript: Interacciones, variables, conceptos básicos
-- Clase 4: Javascript: Métodos y objetos
+- Clase 4: Javascript: Métodos, objetos, operadores lógicos, condicionales, funciones.
+- Clase 5: Resolución ejercicios 2023-03-14
 
