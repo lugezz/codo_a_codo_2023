@@ -106,8 +106,8 @@ console.log(animales); */
 
 //.push() 
 //Agrega elemento/s al final del array
-/* animales.push("Cocodrilo") */
-
+animales.push("Cocodrilo")
+console.log(animales)
 
 
 // find()
