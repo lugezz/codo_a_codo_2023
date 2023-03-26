@@ -95,6 +95,19 @@ console.log(`La respuesta al violet es ${colors('violet')}`)
     //Caso default: devuelve --> "Color not found"
     //Usar el statement Switch.
 
+let colors2 = color => {
+  if (['blue', 'red', 'green', 'orange'].includes(color.toLowerCase())) {
+    return `This is ${color}`;
+  } else {
+    return "Color not found";
+  }}
+
+console.log(`La respuesta al blue es ${colors2('blue')}`)
+console.log(`La respuesta al red es ${colors2('red')}`)
+console.log(`La respuesta al green es ${colors2('green')}`)
+console.log(`La respuesta al orange es ${colors2('orange')}`)
+console.log(`La respuesta al violet es ${colors2('violet')}`)
+
 let esDiezOCinco = numero => [5, 10].includes(numero)
 console.log(`El 5 es 10 o 5?: ${esDiezOCinco(5)}`)
 console.log(`El 5.0 es 10 o 5?: ${esDiezOCinco(5.0)}`)
