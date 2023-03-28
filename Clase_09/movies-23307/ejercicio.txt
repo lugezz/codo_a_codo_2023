@@ -1,0 +1,11 @@
+https://www.themoviedb.org/
+
+Tomar info de una api
+
+Llamar y traer título y foto
+
+Formato del pedido
+
+https://api.themoviedb.org/3/movie/popular?api_key=TUAPIKEY&language=es-MX&page=1
+
+Hacer de la página 1 a la 500

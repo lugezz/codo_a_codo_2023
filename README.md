@@ -28,6 +28,7 @@ Comisión 23307 - Profe Gabriel Muñoz
 - Clase 4: Javascript: Métodos, objetos, operadores lógicos, condicionales, funciones.
 - Clase 5: Resolución ejercicios 2023-03-14
 - Clase 6: Sentencia while, condiciones, bucle infinito, métodos de array shift, unshift, map, find, etc
-- Clase 7:
+- Clase 7: Comandos Terminal, Git, Github
 - Clase 8: Apis, HTTP: get post put delete, JSON, asincronia, promesas, fetch, try/catch
+- Clase 9: Async / Await, Axios
 
