@@ -31,4 +31,5 @@ Comisión 23307 - Profe Gabriel Muñoz
 - Clase 7: Comandos Terminal, Git, Github
 - Clase 8: Apis, HTTP: get post put delete, JSON, asincronia, promesas, fetch, try/catch
 - Clase 9: Async / Await, Axios
+- Clase 10: Conexión a API para comunicarse con TheMovieDB y mostrar 500 páginas de películas
 
