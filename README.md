@@ -33,4 +33,6 @@ Comisión 23307 - Profe Gabriel Muñoz
 - Clase 9: Async / Await, Axios
 - Clase 10: Conexión a API para comunicarse con TheMovieDB y mostrar 500 páginas de películas
 - Clase 11: Primeros pasos en React: Instalación y primer componente.
-
+- Clase 12:
+    * Desestructuración de arrays y objetos. Spread operator
+    * React: Creado otro componente, argumentos e importación múltiple
