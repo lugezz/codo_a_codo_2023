@@ -36,3 +36,4 @@ Comisión 23307 - Profe Gabriel Muñoz
 - Clase 12:
     * Desestructuración de arrays y objetos. Spread operator
     * React: Creado otro componente, argumentos e importación múltiple
+- Clase 13: Eventos, Bootstrap y react-bootstrap - Buttons, cards y estados y efectos
