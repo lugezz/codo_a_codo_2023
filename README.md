@@ -37,3 +37,4 @@ Comisión 23307 - Profe Gabriel Muñoz
     * Desestructuración de arrays y objetos. Spread operator
     * React: Creado otro componente, argumentos e importación múltiple
 - Clase 13: Eventos, Bootstrap y react-bootstrap - Buttons, cards y estados y efectos
+- Clase 14: React Movies Parte 1, creacion de Proyecto, limpieza de Archivos, estructura de componentes, utilizacion de JSON, .MAP, CSS con Grid
