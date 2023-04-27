@@ -1,13 +1,14 @@
 const API = "https://api.themoviedb.org/3"
+const API_KEY = process.env.REACT_APP_API_KEY
 
-
-export const get = (path)=>{
-    return fetch (API+path,{
-headers:{
-    Authorization:
-    "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3M2I5NmRkYzI1NjU4YWQxN2M5MDQ0MGU3ZjYxYmQ2NyIsInN1YiI6IjYzZjY5NzFkMWYzMzE5MDA4NDNhYzQ5NCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.AcIf3KJ97EjbNZB_54h8sZF6a_l8JzmeBjruFnMVTxs",
-    "Content-Type": "application/json;charset=utf-8",
-
-}
-}).then((results)=>results.json())
+export const get = async (url) => {
+  const response = await fetch(`${API}${url}`,{
+    headers: {
+        Authorization: 
+        `Bearer ${API_KEY}`,
+        'Content-Type': 'application/json;charset=utf-8'
+    }
+  })
+  const data = await response.json()
+  return data
 }
