@@ -38,3 +38,6 @@ Comisión 23307 - Profe Gabriel Muñoz
     * React: Creado otro componente, argumentos e importación múltiple
 - Clase 13: Eventos, Bootstrap y react-bootstrap - Buttons, cards y estados y efectos
 - Clase 14: React Movies Parte 1, creacion de Proyecto, limpieza de Archivos, estructura de componentes, utilizacion de JSON, .MAP, CSS con Grid
+- Clase 15: react-router-dom, useState, useEffect
+- Clase 16: Creamos LandingPage y PeliculaDetalle.
+- Clase 17: Firebase
