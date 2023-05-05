@@ -41,3 +41,4 @@ Comisión 23307 - Profe Gabriel Muñoz
 - Clase 15: react-router-dom, useState, useEffect
 - Clase 16: Creamos LandingPage y PeliculaDetalle.
 - Clase 17: Firebase
+- Clase 18: firebase/firestore - collection, getDocs, deleteDoc, doc - Sweet Alert | Creado component Show
