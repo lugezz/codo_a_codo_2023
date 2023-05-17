@@ -44,3 +44,4 @@ Comisión 23307 - Profe Gabriel Muñoz
 - Clase 18: firebase/firestore - collection, getDocs, deleteDoc, doc - Sweet Alert | Creado component Show
 - Clase 19: Elemento Show completo
 - Clase 20: Elemento Create completo
+- Clase 21: Elemento Edit completo
