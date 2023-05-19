@@ -45,3 +45,4 @@ Comisión 23307 - Profe Gabriel Muñoz
 - Clase 19: Elemento Show completo
 - Clase 20: Elemento Create completo
 - Clase 21: Elemento Edit completo
+- Clase 22: Dinámica de grupos en el trabajo del proyecto del CRUD
