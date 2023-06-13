@@ -48,3 +48,5 @@ Comisión 23307 - Profe Gabriel Muñoz
 - Clase 22: Dinámica de grupos en el trabajo del proyecto del CRUD
 - Clase 23: Peliculas - Elementos spinner y buscador.
 - Clase 24: Películas - Componente Search.
+- Clase 25: Node - Express
+- Clase 26: 
