@@ -1,29 +1,29 @@
 import { FaSearch } from "react-icons/fa";
-import { useNavigate } from "react-router-dom"; // 4 importo useNavigate
-import { useState } from "react"; //7 importamos useState
+import { useNavigate } from "react-router-dom"; // 4) Importo useNavigate
+import { useState } from "react"; // 7) Importamos useState
 import "./Buscador.css";
 export const Buscador = () => {
-  const navigate = useNavigate(); //5 traigo la ejecucion y lo guaro en la variable
-  // 1 realiza la funcion que nos permita captura lo que ingresamos en el input del buscador. y lo envie a la url
+  const navigate = useNavigate(); // 5) Traigo la ejecucion y lo guardo en la variable
+  // 1) Realiza la funcion que nos permita capturar lo que ingresamos en el input del buscador y lo envie a la url
 
-  /* 8 estados para capturar el input */
+  // 8) Estados para capturar el input
   const [searchText, setSearchText] = useState("");
 
   const handleSubmit = (e) => {
-    e.preventDefault(); //3 mostrar que no se realiza el submit
-    navigate(`/?search=${searchText}`); //6 las preparo el useNavigate para enviar lo buscado a la url
+    e.preventDefault(); // 3) Evitamos el submit
+    navigate(`/?search=${searchText}`); // 6) Las preparo el useNavigate para enviar lo buscado a la url
   };
 
   return (
     <form className="buscadorContainer" onSubmit={handleSubmit}>
   
-      {/* 2 agregamos el evento */}
+      {/* 2) Agregamos el evento */}
       <div className="buscadorBox">
         <input
           className="buscadorInput"
-          /*       9 valor del estado inicial */
+          /* 9) Valor del estado inicial */
           value={searchText}
-          /*  10 trabajamos con el evento onChange capturando el cambio en el input */
+          /*  10) Trabajamos con el evento onChange capturando el cambio en el input */
           onChange={(e) => setSearchText(e.target.value)}
           type="text"
         />

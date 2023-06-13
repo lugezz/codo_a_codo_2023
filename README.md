@@ -46,4 +46,5 @@ Comisión 23307 - Profe Gabriel Muñoz
 - Clase 20: Elemento Create completo
 - Clase 21: Elemento Edit completo
 - Clase 22: Dinámica de grupos en el trabajo del proyecto del CRUD
-- Clase 23: Peliculas, elementos spinner y buscador.
+- Clase 23: Peliculas - Elementos spinner y buscador.
+- Clase 24: Películas - Componente Search.
