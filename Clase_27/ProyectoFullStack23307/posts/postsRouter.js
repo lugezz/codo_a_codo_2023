@@ -1,8 +1,6 @@
 import cors from "cors"
-import { db } from "../database/db.js"
 import express from "express"
 import { PostModel } from "../models/PostModel.js"
-import e from "cors";
 
 const router = express.Router();
 
