@@ -51,4 +51,4 @@ Comisión 23307 - Profe Gabriel Muñoz
 - Clase 25: Node - Express
 - Clase 26: Base de Datos MySQL y conexión - Sequelize
 - Clase 27: Base de Datos - CRUD y todas las rutas.
-- Clase 28: Vite - CRUD
+- Clase 28: Vite - CRUD. Inicio Back y Front.
